@@ -1,2 +1,2 @@
 # synthesizer
-Made by using css,html,js only.
+Made by using javascript ,css& html only.
